@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://sjsumit.github.io/csb-99ljj/static/css/main.931fed82.chunk.css",
+    "main.js": "https://sjsumit.github.io/csb-99ljj/static/js/main.4f097911.chunk.js",
+    "main.js.map": "https://sjsumit.github.io/csb-99ljj/static/js/main.4f097911.chunk.js.map",
+    "runtime-main.js": "https://sjsumit.github.io/csb-99ljj/static/js/runtime-main.1e6d8c47.js",
+    "runtime-main.js.map": "https://sjsumit.github.io/csb-99ljj/static/js/runtime-main.1e6d8c47.js.map",
+    "static/js/2.c7021464.chunk.js": "https://sjsumit.github.io/csb-99ljj/static/js/2.c7021464.chunk.js",
+    "static/js/2.c7021464.chunk.js.map": "https://sjsumit.github.io/csb-99ljj/static/js/2.c7021464.chunk.js.map",
+    "index.html": "https://sjsumit.github.io/csb-99ljj/index.html",
+    "precache-manifest.36213d895b7d47a9124c495215ffa20f.js": "https://sjsumit.github.io/csb-99ljj/precache-manifest.36213d895b7d47a9124c495215ffa20f.js",
+    "service-worker.js": "https://sjsumit.github.io/csb-99ljj/service-worker.js",
+    "static/css/main.931fed82.chunk.css.map": "https://sjsumit.github.io/csb-99ljj/static/css/main.931fed82.chunk.css.map",
+    "static/js/2.c7021464.chunk.js.LICENSE.txt": "https://sjsumit.github.io/csb-99ljj/static/js/2.c7021464.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e6d8c47.js",
+    "static/js/2.c7021464.chunk.js",
+    "static/css/main.931fed82.chunk.css",
+    "static/js/main.4f097911.chunk.js"
+  ]
+}
